@@ -1,7 +1,7 @@
 body {
 	margin: 0 auto;
 	font-family: "Ubuntu";
-	background-image: url(myndir/bíll.jpg);
+	background-image: url(../myndir/bíll.jpg);
 
 }
 
@@ -59,12 +59,9 @@ body {
 
 }
 
-}
 
 img {
-	border-radius: 50%;
-	width: 10px,
-	height: 100px;
+	border-style:none;
 }
 
 
