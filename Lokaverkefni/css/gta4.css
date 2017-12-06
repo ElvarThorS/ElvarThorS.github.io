@@ -1,7 +1,7 @@
 body {
 	margin: 0 auto;
 	font-family: "Ubuntu";
-	background-image: url(myndir/sol.gif);
+	background-image: url(../myndir/sol.gif);
 
 }
 
@@ -64,12 +64,9 @@ iframe {
 
 }
 
-}
 
 img {
-	border-radius: 50%;
-	width: 10px,
-	height: 100px;
+	border-style:none;
 }
 
 
