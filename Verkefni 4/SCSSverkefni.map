@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EAAC,WAAW,EAAE,MAAM;;AACxB,OAAO;EAAC,UAAU,EAAE,MAAM;;AAC1B,KAAK;EAAC,KAAK,EAAE,IAAI",
+"sources": ["SCSSverkefni.scss"],
+"names": [],
+"file": "SCSSverkefni"
+}

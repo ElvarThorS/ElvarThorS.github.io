@@ -1,0 +1,22 @@
+﻿$litur: red;
+$litur2: blue;
+$litur3: yellow;
+
+body{font-family: normal;}
+.middle{text-align: center;}
+.blue{color: blue;}
+
+h1{
+	color: $litur;
+}
+
+h2{
+	color: $litur2;
+}
+
+p{
+	color: $litur;
+}
+h3{
+	color: $litur3;
+}

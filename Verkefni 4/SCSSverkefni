@@ -1,0 +1,10 @@
+body {
+  font-family: normal; }
+
+.middle {
+  text-align: center; }
+
+.blue {
+  color: blue; }
+
+/*# sourceMappingURL=SCSSverkefni.map */
